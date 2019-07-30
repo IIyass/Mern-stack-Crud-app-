@@ -5,6 +5,7 @@
 # Run this Command :npm install mongoose
 # Run this Command :npm install morgan 
 # Run this Command :npm install cors 
+# Run this Command :node server.js
 # Open another CMD
 # Go to path \Twitter-Web-master\Twitter-Web-master
 # Run npm start
